@@ -14,7 +14,7 @@ class Program
     static async Task Main(string[] args)
     {
         int maxRedirect = 10;
-        //string initialUrl = "https://href.li/?http://anonymz.com/?https://tinyurl.com/keepnetlabs";
+        //string initialUrl = "https://href.li/?http://anonymz.com/?https://tinyurl.com/boraksmer";
         string initialUrl = "https://bit.ly/3DliiIe";
         //string initialUrl = "http://borakasmer.com";
         //string initialUrl = "http://bit.ly/49Qm9JN";
