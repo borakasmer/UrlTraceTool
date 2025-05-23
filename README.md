@@ -3,7 +3,7 @@
 Bu repo, ["NET URL Redirect Checker"](https://borakasmer.medium.com/net-url-redirect-checker-76a742a6069d) başlıklı teknik makaleme ait örnek kodları içerir.
 
 ## 📌 Amaç
-Kodlar tamamen kişisel bilgi, deneyim ve araştırmalara dayalı olarak geliştirilmiş olup eğitim ve teknik paylaşım amacıyla yazılmıştır. Hiçbir şekilde çalıştığım şirketin üretim kodlarını ya da özel bilgisini içermez.
+Kodlar tamamen kişisel bilgi, deneyim ve araştırmalara dayalı olarak geliştirilmiş olup eğitim ve teknik paylaşım amacıyla yazılmıştır.
 
 ## 🛑 Yasal Uyarı / Legal Disclaimer
 
